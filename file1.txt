@@ -1,1 +1,2 @@
 I am a file
+Adding new line 1
